@@ -1,4 +1,4 @@
-## DSA Mini project - Group 10
+## Mini project
 
 ### General idea
 
